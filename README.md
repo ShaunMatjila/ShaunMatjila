@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
-<h1 align="center">Hi 👋, I'm Shaun Matjila</h1>
+<h1 align="center">Hi, I'm Shaun Matjila</h1>
 <h3 align="center">Dedicated Software Developer with a passion for Front-End Development</h3>
 
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="animated code gif"/>
